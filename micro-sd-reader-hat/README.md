@@ -2,6 +2,6 @@
 
 | Top                                                                        | Bottom                                                                           |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![micro-sd-reader-hat top](micro-sd-reader-hat/exports/micro-sd-reader-hat-top.png) | ![micro-sd-reader-hat bottom](micro-sd-reader-hat/exports/micro-sd-reader-hat-bottom.png) |
+| ![micro-sd-reader-hat top](exports/micro-sd-reader-hat-top.png) | ![micro-sd-reader-hat bottom](exports/micro-sd-reader-hat-bottom.png) |
 
-[Schematic (PDF)](micro-sd-reader-hat/exports/micro-sd-reader-hat-schematic.pdf)
+[Schematic (PDF)](exports/micro-sd-reader-hat-schematic.pdf)
